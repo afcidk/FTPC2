@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request
-from common import FTPC2
+from ftpc2 import FTPC2
 
 def serve_api(c2: FTPC2) -> None:
     app = Flask('FTPC2 REST server')

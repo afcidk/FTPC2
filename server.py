@@ -1,7 +1,7 @@
 from pyftpdlib import servers
 from pyftpdlib.authorizers import DummyAuthorizer
 from pyftpdlib.handlers import FTPHandler
-from common import FTPC2
+from ftpc2 import FTPC2
 import threading
 import logging
 import sys
