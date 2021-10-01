@@ -10,5 +10,13 @@ sudo python server.py
 
 ## RESTful APIs
 
-Interactive interface is not yet implemented, all actions are performed via RESTful APIs (port 6666)
-See `test.py` for API usages
+Interactive interface is not yet implemented, all actions are performed via RESTful APIs (port 6666).
+
+See `test.py` for example API usages.
+
+## Screenshots
+
+![](./imgs/server.png)
+
+![](./imgs/client.png)
+
